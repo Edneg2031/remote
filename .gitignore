@@ -161,3 +161,6 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# 数据集（体积过大，不上传）
+data/
